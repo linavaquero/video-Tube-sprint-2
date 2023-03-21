@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>nuevo</title>
+    <link rel="stylesheet" href="./styles/styles.css">
+    <link rel="stylesheet" href="./styles/formulario.css">
+
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</head>
+
+<body>
+    <header class="section">
+        <nav class="header__nav">
+            <figure class="header__figure">
+                <img src="./img/logosprin2.png" alt="Logo VideoTube">
+            </figure>
+            <figure id="nombrepagina">
+                <img src="./img/VideoTube.svg" alt="nombre VideoTube">
+            </figure>
+
+
+        </nav>
+        <main>
+            <form id="form">
+
+                <label for="name">Nombre:</label>
+                <input type="text" id="name" name="name"><br>
+
+                <label for="categoria">Categoría:</label>
+                <select name="categoria" id="categoria"><br>
+                    <option value="">Seleccione un opción</option>
+                    <option value="música">música</option>
+                    <option value="música para niños">música para niños</option>
+                    <option value="video juegos">video juegos</option>
+                </select>
+
+                <label for="image">Imagen:</label>
+                <input type="text" id="image" name="image"><br>
+
+                <label for="video">Video:</label>
+                <input type="text" id="video" name="video"><br>
+
+                <label for="avatar">Avatar:</label>
+                <input type="text" id="avatar" name="avatar"><br>
+
+                <label for="autor">Autor:</label>
+                <input type="text" id="autor" name="autor"><br>
+
+                <label for="vistas">Vistas:</label>
+                <input type="text" id="vistas" name="vistas"><br>
+                <div>
+                     <input type="submit" value="Enviar">
+                     <a href="index.html" id="cancelar">Cancelar</a>
+                
+                </div>
+
+            </form>
+        </main>
+        <script src="./js/formulario.js" type="module"></script>
+</body>
+
+</html>
