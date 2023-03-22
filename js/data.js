@@ -2,42 +2,42 @@ export const videoTubeCharacters = [
     {
         id: 1,
         categoria:"música",
-        name: "HA-ASH - Lo Aprendí de Ti" ,
-        image:"https://cdns-images.dzcdn.net/images/artist/780585ffa88dfd7fbf78af0eb69f7c3d/500x500.jpg",
-        video:"https://www.youtube.com/embed/jko-2WoLKq8",
-        avatar:"https://yt3.googleusercontent.com/RBa8MK5NJDgqBv3y8HN9ljQ2V-CFL2YGvsdki1y-z3FAdcEnqrSSPe2cxvjUgI-We3Irdl-k-A=s88-c-k-c0x00ffffff-no-rj",
-        autor: "HaAshOficial",
-        vistas: "1401 M vistas  - 6 mar 2015 "
+        name: "kany Garcia Mix Exitos - Top 20 mejores canciones de kany Garcia - Lo mejor del ayer" ,
+        image:"https://i.ytimg.com/vi/YGs_ooHhVtA/sddefault.jpg",
+        video:"https://www.youtube.com/embed/YGs_ooHhVtA",
+        avatar:"https://yt3.googleusercontent.com/611q_PpRWb4HPKemG992Wbjg7yaBZlVUbDoH8R1Y48Nu-7b557cgsZDpC7hVtjX2DSVpbrJn=s88-c-k-c0x00ffffff-no-rj",
+        autor: "Amo la musica pop",
+        vistas: "2 M vistas  13 jun 20225 "
     },
     {
         id: 2,
         categoria:"música",
-        name: "Felipe Peláez, Manuel Julián - Tan Natural" ,
-        image:"https://i.ytimg.com/vi/c2jgy0QrnqQ/maxresdefault.jpg",
-        video:"https://www.youtube.com/embed/c2jgy0QrnqQ",
-        avatar:"https://yt3.googleusercontent.com/O3PBSDVH4cW_VlFLfu9EOx5gDAUg7Iq5eMZyu_85F4sihbHBj6YO7BSHAg8cUtwZYqR8Cln_kg=s88-c-k-c0x00ffffff-no-rj",
-        autor: "Felipe Peláez",
-        vistas: "156 M vistas - 31 jul 2013 "
+        name: "Voy a Amarte, Los Gigantes Del Vallenato - Audio" ,
+        image:"https://i.ytimg.com/vi/YuQVogmZrx4/mqdefault.jpg",
+        video:"https://www.youtube.com/embed/YuQVogmZrx4",
+        avatar:"https://yt3.googleusercontent.com/ytc/AL5GRJVccecL4Ed4pZXW18snShDp6A8pNqsaNt_7Guzdcg=s88-c-k-c0x00ffffff-no-rj",
+        autor: "Codiscos",
+        vistas: "1.5 M vistas  16 jun 2018 "
     },
     {
         id: 3,
         categoria:"música",
-        name: "Andrés Cepeda - Lo mejor que hay en mi vida" ,
-        image:"https://i.ytimg.com/vi/MvITnIylaQ8/maxresdefault.jpg",
-        video:"https://www.youtube.com/embed/MvITnIylaQ8",
-        avatar:"https://yt3.googleusercontent.com/gjG5Gv1G3HY7cgGgArjgaLRioMUeaCAS115AnMgJQmM6jiaF5Hisf0bLi1wCbaOA0cWp_65Bf4s=s88-c-k-c0x00ffffff-no-rj",
-        autor: "Andrés Cepeda",
-        vistas: "143 M vistas -  7 sept 2012 ",
+        name: "Regálame Una Noche, Maelo Ruiz - Audio" ,
+        image:"https://i.ytimg.com/vi/l_994fHZdp0/maxresdefault.jpg",
+        video:"https://www.youtube.com/embed/l_994fHZdp0",
+        avatar:"https://yt3.googleusercontent.com/ytc/AL5GRJVccecL4Ed4pZXW18snShDp6A8pNqsaNt_7Guzdcg=s88-c-k-c0x00ffffff-no-rj",
+        autor: "Codiscos",
+        vistas: "10 M vistas -  4 oct 2013 ",
     },
     {
         id: 4,
         categoria:"música",
-        name: "KAROL G - Mientras Me Curo Del Cora (Official Video)" ,
-        image:"https://i.ytimg.com/vi/6qB6KIPSfUQ/maxresdefault.jpg",
-        video:"https://www.youtube.com/embed/37wmW9kYAlQ",
-        avatar:"https://yt3.googleusercontent.com/Js_Ip-lezgP0XmjUzTLsHPUN9HVBn1vMeYnx12ApUPVfSPSIBiZ2OEAMlXM86USsGv38PsCnfQ=s88-c-k-c0x00ffffff-no-rj",
-        autor: "KAROL G",
-        vistas: "33 M vistas  - 7 mar 2023"
+        name: "Feliz Aniversario" ,
+        image:"https://i.scdn.co/image/ab67616d0000b2739d97e1a3ff3e7864dcd97ac7",
+        video:"https://www.youtube.com/embed/NfCV2nZt-tY",
+        avatar:"https://yt3.googleusercontent.com/ytc/AL5GRJVkK5-nWh76iBtUCnNgR11QkHBuJNWnnGOlWi83jg=s88-c-k-c0x00ffffff-no-rj",
+        autor: "JeankCenteno",
+        vistas: "800,797 vistas - 27 may 2022"
     },
     {
         id: 5,
@@ -51,13 +51,13 @@ export const videoTubeCharacters = [
     },
     {
         id: 6,
-        categoria:"música para niños",
-        name: "La Granja de Zenón - Las 35 mejores Canciones de la Granja 1 - 2 y 3 en HD" ,
-        image:"https://i.ytimg.com/vi/B1svxwMuLf4/maxresdefault.jpg",
-        video:"https://www.youtube.com/embed/B1svxwMuLf4",
-        avatar:"https://yt3.googleusercontent.com/jFbYrEa2l1kSn9YlwRhmXNa7Cjo7GFc8B7lfVuov2igBY5rYYKv5wSM4HgcRd9JhcpWFLZ2qP84=s88-c-k-c0x00ffffff-no-rj",
-        autor: "El Reino Infantil",
-        vistas: "979 M vistas - 28 ene 2017"
+        categoria:"música",
+        name: "La Única, Maelo Ruiz - Audio" ,
+        image:"https://i.ytimg.com/vi/NVyDB59DP-s/maxresdefault.jpg",
+        video:"https://www.youtube.com/embed/NVyDB59DP-s",
+        avatar:"https://yt3.googleusercontent.com/ytc/AL5GRJVccecL4Ed4pZXW18snShDp6A8pNqsaNt_7Guzdcg=s88-c-k-c0x00ffffff-no-rj",
+        autor: "Codiscos",
+        vistas: "603,172 vistas - 5 oct 2013"
     },
     {
         id: 7,
